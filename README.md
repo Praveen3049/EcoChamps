@@ -14,7 +14,7 @@ Users can:
 - **Database**: MongoDB (planned)
 ## 📸 Screenshots
 ![Quizz](src/assets/screenshots/Quizz.png)
-![Lessons](src/assets/screenshots/lessons.png)
+![Lessons](src/assets/screenshots/Lessons.png)
 
 
 ## Updates Coming Soon
