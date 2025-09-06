@@ -13,8 +13,8 @@ Users can:
 - **Backend**: Node.js, Express (planned)
 - **Database**: MongoDB (planned)
 ## 📸 Screenshots
-![Quizz](assets/screenshots/Quizz.png)
-![Lessons](assets/screenshots/lessons.png)
+![Quizz](src/assets/screenshots/Quizz.png)
+![Lessons](src/assets/screenshots/lessons.png)
 
 
 ## Updates Coming Soon
