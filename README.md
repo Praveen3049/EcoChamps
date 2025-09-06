@@ -10,8 +10,8 @@ Users can:
 - Track progress on the leaderboard 📊
 ## 🚀 Tech Stack
 - **Frontend**: React, TypeScript, React Router, Bootstrap
-- **Backend**: Node.js, Express (planned)
-- **Database**: MongoDB (planned)
+- **Backend**: Node.js, Express
+- **Database**: MongoDB 
 ## 📸 Screenshots
 ![Quizz](src/assets/screenshots/Quizz.png)
 ![Lessons](src/assets/screenshots/Lessons.png)
