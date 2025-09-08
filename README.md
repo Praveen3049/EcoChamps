@@ -17,4 +17,4 @@ Users can:
 ![Lessons](src/assets/screenshots/Lessons.png)
 
 
-## Updates Coming Soon
+## Updates Coming Soon!
